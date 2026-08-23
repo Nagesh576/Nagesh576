@@ -1,79 +1,146 @@
-# Hi 👋, I'm Nagesh
+<div align="center">
 
-### 🚀 Frontend Developer | B.Tech Student | AI & Data Science Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Nagesh%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-I'm a passionate Computer Science student focused on building responsive web applications and continuously learning modern technologies. I enjoy creating user-friendly interfaces, solving programming challenges, and working on real-world projects.
+### 🚀 Frontend Developer&nbsp;|&nbsp;🎓 B.Tech Student&nbsp;|&nbsp;🤖 AI & Data Science Enthusiast
+
+<a href="https://www.linkedin.com/in/nagesh-rudraram-a10998284/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Nagesh576">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://portfolio2-one-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Nagesh576&style=for-the-badge&color=6a5cff" alt="profile views" />
+
+</div>
+
+<br>
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Student
-* 🌱 Currently learning **React.js, Node.js, and Full Stack Development**
-* 💡 Interested in **Web Development, AI, and Data Science**
-* 🚀 Building projects to improve problem-solving and development skills
-* 🌍 Love exploring new technologies and learning industry best practices
+```yaml
+name: Nagesh
+role: Frontend Developer & CS Student
+currently_learning: [React.js, Node.js, Full Stack Development]
+interests: [Web Development, AI, Data Science]
+focus: Building real-world projects & solving problems
+fun_fact: Always exploring the next shiny framework 🌱
+```
+
+<br>
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
+**Frontend**
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-* Java
-* JavaScript
-* Python
+**Languages**
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=java,js,py" />
 
-* Git
-* GitHub
-* VS Code
-* Eclipse
-* MySQL
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mysql" />
+
+</div>
+
+<br>
 
 ## 📂 Featured Projects
 
-### 🛍️ Trendora (Myntra-Inspired E-Commerce Website)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Responsive fashion e-commerce platform
-* Product listings and category filtering
-* Modern UI/UX design
-* Built using HTML, CSS, JavaScript, and React
+### 🛍️ Trendora
+**Myntra-Inspired E-Commerce Website**
 
-### 🌐 Personal Portfolio Website
+Responsive fashion e-commerce platform with product listings, category filtering, and a modern UI/UX design.
 
-* Showcases projects, skills, and achievements
-* Responsive design for all devices
-* Clean and modern interface
+`HTML` `CSS` `JavaScript` `React`
 
-### 📚 Web Development Projects
+</td>
+<td width="50%" valign="top">
 
-* Responsive landing pages
-* Interactive JavaScript applications
-* Frontend UI implementations
+### 🌐 Personal Portfolio
+**Showcase Website**
+
+A clean, responsive portfolio highlighting projects, skills, and achievements across all devices.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Live Demo](https://portfolio2-one-phi.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Web Dev Projects
+**Landing Pages & JS Apps**
+
+A collection of responsive landing pages and interactive JavaScript applications built while sharpening frontend fundamentals.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ More Coming Soon
+**Always Building**
+
+Currently working on full-stack projects using React and Node.js — stay tuned for updates!
+
+`React` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🏆 Achievements
 
-* Developed multiple responsive web applications and academic projects.
-* Continuously improving problem-solving and development skills.
+- 🏗️ Developed multiple responsive web applications and academic projects
+- 📈 Continuously improving problem-solving and development skills
+- 🌱 Actively learning full-stack development end-to-end
 
-## 📈 GitHub Stats
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagesh576\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagesh576\&layout=compact\&theme=tokyonight)
+<div align="center">
 
-## 📫 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=Nagesh576&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagesh576&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
-* GitHub: https://github.com/Nagesh576
-* LinkedIn: https://www.linkedin.com/in/nagesh-rudraram-a10998284/
-* Portfolio: https://portfolio2-one-phi.vercel.app/
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagesh576&theme=tokyonight&hide_border=true" width="49%" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagesh576&theme=tokyo-night&hide_border=true" width="90%" />
 
-⭐ If you like my projects, don't forget to star the repositories!
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Nagesh576"><img src="https://img.shields.io/badge/GitHub-Nagesh576-181717?style=flat-square&logo=github" /></a>
+<a href="https://www.linkedin.com/in/nagesh-rudraram-a10998284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+<a href="https://portfolio2-one-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel" /></a>
+
+<br><br>
+
+⭐ **If you like my projects, don't forget to star the repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
